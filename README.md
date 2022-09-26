@@ -29,7 +29,7 @@
 -  [ ] Seu projeto será considerado completo quando a aprovação e o merge com a main acontecerem **em seu próprio repositório**.
 
 ### Como eu vou executar os exercícios?
-Desta vez todos os arquivos .md com o enunciado estão na pasta raíz do repositório, pois iremos utilizar os mesmos arquivos `.html` e `.css`. Dessa vez, você pode alterar **apenas** o arquivo CSS, e ver o resultado acessando o arquivo. No seu navegador de internet (sugerimos o Google Chrome). Para acessar o arquivo, você pode copiar o caminho dele e colar no navegador, ou utilizar a extensão LiveServer. Mais detalhes sobre a extensão no material assíncrono. Além disso, você pode utilizar o Chrome DevTools para entender como estão as propriedades dos elementos do seu projeto.
+Altere o arquivo script.js para atualizar os elementos HTML.
 
 ### O que você precisa saber e praticar desta aula?
 
